@@ -1,0 +1,28 @@
+.Header_container{
+  display: flex;
+  justify-content: center;
+}
+.Navbar_container{
+  display: flex;
+  border: solid 2px;
+}
+.Navbar_container>ul{
+  display: flex;
+  text-decoration: none;
+  list-style: none;
+}
+#nav_items{
+  margin: 10px 20px;
+}
+.Main_container{
+  display: flex;
+}
+.Main_wrapper{
+  display: flex;
+}
+.Content{
+  border: solid 2px;
+  height: 200px;
+  width: 300px;
+  margin-top: 20px;
+}
